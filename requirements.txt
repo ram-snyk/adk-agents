@@ -1,0 +1,23 @@
+# Google AI Development Kit (ADK)
+google-genai==1.5.0
+
+# Web framework for agent endpoints
+flask==3.0.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# HTTP requests (upgraded for security)
+requests==2.32.4
+
+# JSON parsing and validation
+pydantic==2.5.0
+
+# AI Response Validation & Safety
+anthropic==0.40.0  # Claude API for response comparison
+openai==1.58.1  # OpenAI API for cross-validation
+langchain==0.3.13  # LLM orchestration and validation
+langchain-google-genai==2.0.8  # Google Genai integration for LangChain
+guardrails-ai==0.5.14  # Response validation and guardrails
+rouge-score==0.1.2  # Response quality metrics
+nltk==3.9.1  # Natural language processing for analysis
