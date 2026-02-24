@@ -25,3 +25,11 @@ dist/
 # OS/editor
 .DS_Store
 *.swp
+
+# Security reports
+VULNERABILITIES_*.md
+AIBOM_REPORT.md
+WORKFLOW.md
+SECURITY_REPORT.md
+START_HERE.md
+TEST_NOW.md
