@@ -25,6 +25,7 @@ dist/
 # OS/editor
 .DS_Store
 *.swp
+.vscode/settings.json
 
 # Security reports
 VULNERABILITIES_*.md
